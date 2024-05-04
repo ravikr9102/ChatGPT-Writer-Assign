@@ -55,7 +55,7 @@ npm run dev
 
 ```js
 Demo Video
-[![Demo Video](https://www.loom.com/share/8a57c2139fa84f7e8515284a6b03cd7d)](https://www.loom.com/embed/8a57c2139fa84f7e8515284a6b03cd7d)
+<iframe width="560" height="315" src="https://www.loom.com/embed/8a57c2139fa84f7e8515284a6b03cd7d" frameborder="0" allowfullscreen></iframe>
 ```
 
 - Update the parserOptions property in ESLint configuration to include TypeScript project settings.
