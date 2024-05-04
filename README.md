@@ -31,6 +31,8 @@ npm run dev
 
 ```js
 1.  Show the AI icon when the user focuses on the LinkedIn message input field. The icon will disappear when the input field is no longer focused.
+
+![Screenshot 1](./5b6c33df-e400-42dc-919d-00bc55ada146)
 ```
 
 ```js
