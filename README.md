@@ -1,6 +1,5 @@
 # LinkedIn AI Reply Chrome Extension
 
-
 This project is a Chrome extension that runs on LinkedIn and assists users in generating replies, This is a demo extension, developed using React , TypeScript and Tailwind CSS, integrated with Vite for fast development and hot module replacement (HMR).
 
 ## Getting Started
@@ -31,6 +30,7 @@ npm run dev
 
 ```js
 1.  Show the AI icon when the user focuses on the LinkedIn message input field. The icon will disappear when the input field is no longer focused.
+![Screenshot 1](../ChatGPT%20Writer%20Assign/src/assets/images/5b6c33df-e400-42dc-919d-00bc55ada146.png)
 ```
 
 ```js
