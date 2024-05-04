@@ -53,6 +53,11 @@ npm run dev
 6.  When user click on send button it will be reflect on chat box.
 ```
 
+```js
+Demo Video
+[![Demo Video](https://www.loom.com/share/8a57c2139fa84f7e8515284a6b03cd7d)](https://www.loom.com/embed/8a57c2139fa84f7e8515284a6b03cd7d)
+```
+
 - Update the parserOptions property in ESLint configuration to include TypeScript project settings.
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
