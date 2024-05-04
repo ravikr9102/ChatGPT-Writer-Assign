@@ -15,13 +15,15 @@ git clone https://github.com/your-username/ChatGPT-Writer-Assign.git
 
 2. Install dependencies:
 
-``js
+```js
 npm install
-
-````
+```
 
 3. Start the development server:
-   npm run dev
+
+```js
+npm run dev
+```
 
 4. Open your browser and navigate to http://localhost:5173 to view the application.
 
@@ -29,7 +31,7 @@ npm install
 
 ```js
 1.  Show the AI icon when the user focuses on the LinkedIn message input field. The icon will disappear when the input field is no longer focused.
-````
+```
 
 ```js
 2.  Display a center-aligned modal when clicking on the icon. Clicking anywhere outside this modal it will close it.
@@ -66,4 +68,3 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature')
 Push to the branch (git push origin feature)
 Create a new Pull Request.
-
