@@ -33,25 +33,37 @@ npm run dev
 
 ```
 
+![Feature1](https://firebasestorage.googleapis.com/v0/b/fir-auth-1c3bc.appspot.com/o/5b6c33df-e400-42dc-919d-00bc55ada146.png?alt=media&token=77ee00bf-ee19-44cf-8146-d4df97ab6510)
+
 ```js
 2.  Display a center-aligned modal when clicking on the icon. Clicking anywhere outside this modal it will close it.
 ```
+
+![Feature2](https://firebasestorage.googleapis.com/v0/b/fir-auth-1c3bc.appspot.com/o/cda7801b-d951-4cb3-8b4e-839f29f1cec2.png?alt=media&token=168929c8-af02-418a-a2bc-c746b6816c3a)
 
 ```js
 3.  The user can enter any command in the modal's input field.
 ```
 
+![Feature3](https://firebasestorage.googleapis.com/v0/b/fir-auth-1c3bc.appspot.com/o/8548f606-368e-4be5-a206-962ee966f280.png?alt=media&token=9d418e92-c902-4dc5-bbc9-b488507ddc98)
+
 ```js
 4.  Clicking on the “Generate” button it will just display dummy response: "Thank you for the opportunity! If you have any more questions or if there's anything else I can help you with, feel free to ask." The “Regenerate” button should be non-functional.
 ```
+
+![Feature4](https://firebasestorage.googleapis.com/v0/b/fir-auth-1c3bc.appspot.com/o/726f673f-4d92-40e9-aa0d-65f28ba2df08.png?alt=media&token=17daefde-0747-4c1f-9e71-35180ff91bc3)
 
 ```js
 5.  When the user clicks on the insert button, the generated static text will be inserted into the message input field.
 ```
 
+![Feature5](https://firebasestorage.googleapis.com/v0/b/fir-auth-1c3bc.appspot.com/o/726f673f-4d92-40e9-aa0d-65f28ba2df08.png?alt=media&token=17daefde-0747-4c1f-9e71-35180ff91bc3)
+
 ```js
 6.  When user click on send button it will be reflect on chat box.
 ```
+
+![Feature6](https://firebasestorage.googleapis.com/v0/b/fir-auth-1c3bc.appspot.com/o/91ed7a92-67e4-4961-9839-3cc89869977d.png?alt=media&token=a724aeeb-04ac-429d-832c-ea9e1c737c45)
 
 #Demo Video
 
