@@ -53,8 +53,6 @@ npm run dev
 6.  When user click on send button it will be reflect on chat box.
 ```
 
-[![asciicast](https://asciinema.org/a/113463.png)](https://www.loom.com/share/8a57c2139fa84f7e8515284a6b03cd7d?sid=e9022249-99c0-4d7c-ab2c-2d081043189d)
-
 #Demo Video
 
 ```js
