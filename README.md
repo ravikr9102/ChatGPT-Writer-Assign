@@ -57,7 +57,7 @@ npm run dev
 5.  When the user clicks on the insert button, the generated static text will be inserted into the message input field.
 ```
 
-![Feature5](https://firebasestorage.googleapis.com/v0/b/fir-auth-1c3bc.appspot.com/o/726f673f-4d92-40e9-aa0d-65f28ba2df08.png?alt=media&token=17daefde-0747-4c1f-9e71-35180ff91bc3)
+![Feature5](https://firebasestorage.googleapis.com/v0/b/fir-auth-1c3bc.appspot.com/o/screebshot.png?alt=media&token=c5e3d6a9-18a7-4d8a-99d9-030de7a14954)
 
 ```js
 6.  When user click on send button it will be reflect on chat box.
